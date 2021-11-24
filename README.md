@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [![Francis Jiang's github stats](https://github-readme-stats.vercel.app/api?username=jhjguxin&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -17,19 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## currently working on
+## Currently working on
 
 * https://weiwenjia.com
 * https://github.com/jhjguxin/arygos
 
-## currently learning
+## Currently learning
 
 * ruby, node, java
 * vue react
 * Web Design
 * to been a father
 
-## tech tags
+## Tech tags
 
 * Postgres
 * MySQL
@@ -43,6 +42,6 @@ Here are some ideas to get you started:
 * LowCode
 * GraphQL
 
-## looking for
+## Top languages
 
-* frontend engineer
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhjguxin&langs_count=10&layout=compact" />
